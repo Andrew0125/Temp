@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyLittleApp</string>
+    <string name="hello_world">MyLittleApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="additionEdit_defaultValue">0</string>
+    <string name="additionButton_initText">Addieren</string>
+    <string name="urlButton_initText">URL Anzeigen</string>
+    <string name="emailButton_initText">Email senden</string>
+    <string name="voiceButton_initText">Sprich!</string>
+
+</resources>
